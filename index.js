@@ -9,3 +9,11 @@ function laCajaDePandora(numero) {
     }
   }
 }
+
+function rodrigo() {
+  return {
+    nombre: "rodrigo",
+    edad: "27",
+    nacionalidad: "Argentino Papá",
+  };
+}
