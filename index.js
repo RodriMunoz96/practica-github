@@ -12,3 +12,11 @@ function laCajaDePandora(numero) {
     return "Por favor, proporciona un número entero.";
   }
 }
+
+function julian_() {
+  return {
+    nombre: "Julian",
+    edad: "30",
+    nacionalidad: "Colombiano",
+  };
+}
