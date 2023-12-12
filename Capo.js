@@ -26,4 +26,4 @@ function operacionSegunParidad(numero) {
     return numero + 1; // Por ejemplo, sumar 1 al número
   }
 }
-
+ // Número impar, realizar alguna operación específica para números impares
